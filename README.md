@@ -7,8 +7,8 @@ Each one does one thing, is easy to add or remove, and keeps side effects to a m
 
 | Mod | Game | What it fixes | Links |
 |---|---|---|---|
-| **Inventory Lag Fix** | Skyrim SE / AE | Removes the multi-second freeze when you open the inventory with a lot of items. | [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/199697) · [Source](https://github.com/quoteproxy/InventoryLagFix) |
-| **Slow Time Pitch Fix** | Skyrim SE / AE | Fixes the gamepad right stick looking up and down extremely slowly while time is slowed. | [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/199647) · [Source](https://github.com/quoteproxy/SlowTimePitchFix) |
+| **Inventory&nbsp;Lag&nbsp;Fix** | Skyrim&nbsp;SE&nbsp;/&nbsp;AE | Removes the multi-second freeze when you open the inventory with a lot of items. | [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/199697)&nbsp;·&nbsp;[Source](https://github.com/quoteproxy/InventoryLagFix) |
+| **Slow&nbsp;Time&nbsp;Pitch&nbsp;Fix** | Skyrim&nbsp;SE&nbsp;/&nbsp;AE | Fixes the gamepad right stick looking up and down extremely slowly while time is slowed. | [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/199647)&nbsp;·&nbsp;[Source](https://github.com/quoteproxy/SlowTimePitchFix) |
 
 All of them are on my [Nexus Mods profile](https://www.nexusmods.com/profile/quoteproxy).
 For bug reports, please use the Bugs tab on the mod's Nexus page.

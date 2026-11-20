@@ -7,6 +7,7 @@ Each one does one thing, is easy to add or remove, and keeps side effects to a m
 
 | Mod | Game | What it fixes | Links |
 |---|---|---|---|
+| **Repair&nbsp;Reload&nbsp;Fix** | Kingdom&nbsp;Come:&nbsp;Deliverance&nbsp;II | Stops gear you repaired to 100% from coming back as needing repair after every load. | [Nexus](https://www.nexusmods.com/kingdomcomedeliverance2/mods/4031)&nbsp;·&nbsp;[Source](https://github.com/quoteproxy/RepairReloadFix) |
 | **Jetpack&nbsp;Fall&nbsp;Brake** | Fallout&nbsp;4 | Lets the power armor jetpack brake a fall: fire it while falling to land softly, hover or climb again. | [Nexus](https://www.nexusmods.com/fallout4/mods/111658)&nbsp;·&nbsp;[Source](https://github.com/quoteproxy/JetpackFallBrake) |
 | **Inventory&nbsp;Lag&nbsp;Fix** | Skyrim&nbsp;SE&nbsp;/&nbsp;AE | Removes the multi-second freeze when you open the inventory with a lot of items. | [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/199697)&nbsp;·&nbsp;[Source](https://github.com/quoteproxy/InventoryLagFix) |
 | **Slow&nbsp;Time&nbsp;Pitch&nbsp;Fix** | Skyrim&nbsp;SE&nbsp;/&nbsp;AE | Fixes the gamepad right stick looking up and down extremely slowly while time is slowed. | [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/199647)&nbsp;·&nbsp;[Source](https://github.com/quoteproxy/SlowTimePitchFix) |

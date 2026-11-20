@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="quoteproxy: small fixes for Skyrim and Fallout 4. SKSE and F4SE plugins, free on Nexus Mods, open source on GitHub" width="100%">
+<img src="assets/banner.png" alt="quoteproxy: small fixes for Skyrim, Fallout 4 and Kingdom Come: Deliverance II. SKSE, F4SE and native plugins, free on Nexus Mods, open source on GitHub" width="100%">
 
 Hi, I'm quoteproxy. I make small mods and fixes when something in a game bothers me enough to dig into it.
 Each one does one thing, is easy to add or remove, and keeps side effects to a minimum.
